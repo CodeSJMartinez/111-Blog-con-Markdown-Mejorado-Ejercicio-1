@@ -8,7 +8,7 @@ El rediseño implementado transformó el aspecto básico del sitio en uno más m
 El sitio ahora refleja una imagen más profesional, mejorando tanto la experiencia del usuario como la presentación del contenido.
 
 #### Datos del Proyecto Base
-https://github.com/CodeSJMartinez/110-Blog-con-Markdown
+> Repositorio: 110-Blog-con-Markdown
 
 ---
 
